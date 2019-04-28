@@ -5,8 +5,8 @@
     "description": "Nómina"},
     {
     "id": 2,
-    "description": "Domiciliación"},
-    }],    
+    "description": "Domiciliación"}
+    ],    
     "codeHttpStatus": 200
   }
 }
